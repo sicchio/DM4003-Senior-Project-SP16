@@ -271,8 +271,7 @@ Final Self-Assessment Due (pdf)<br>
 Letter to Next Cohort Due (pdf)<br>
 Portfolio Website</a>
 <a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester PDF Due</a>
-<li>
-<td><a href="https://docs.google.com/forms/d/1B1sKhE43W0fSWwrS969Q3iH4S9-PrLOCaUv0ereOgVw/viewform" target="_blank">Senior Exit Interview Survey</a>
+<li><a href="https://docs.google.com/forms/d/1B1sKhE43W0fSWwrS969Q3iH4S9-PrLOCaUv0ereOgVw/viewform" target="_blank">Senior Exit Interview Survey</a>
     </li>
     </ul></td>
     </td> 
