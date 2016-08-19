@@ -76,7 +76,7 @@
     </ul>
 <strong>Class</strong>
 <ul>
-<li>Present your Inital Research></li>
+<li>Present your Initial Research></li>
 </ul></td> 
 </tr>
 <tr>
