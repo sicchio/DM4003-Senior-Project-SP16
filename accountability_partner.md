@@ -1,14 +1,10 @@
 ### DM-UY 4003 Senior Project in Digital Media
-##### Spring 2016 • De Angela L. Duff • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 
+##### Fall 2016 • Kate Sicchio • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811  
 
 ---
 ## Accountability Partners
 
-*  Arif and Nancy 
-*  Guy, Hornby, and Katalina
-*  Matei and Casey
-*  Stanford and Lajune
-*  Matt and Dylan
+
 
 
 
