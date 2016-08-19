@@ -1,23 +1,22 @@
 ### DM-UY 4003 Senior Project in Digital Media
-##### Spring 2016 • De Angela L. Duff • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 
+##### Fall 2016 • Kate Sicchio • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 
 
 ---
 
 # End of Semester Deliverables
 
 ## EXIT INTERVIEW SURVEY
-The survey will be slacked to you but you can also access it <a href="https://docs.google.com/forms/d/1B1sKhE43W0fSWwrS969Q3iH4S9-PrLOCaUv0ereOgVw/viewform" target="_blank">here</a>.
+<a href="https://docs.google.com/forms/d/1B1sKhE43W0fSWwrS969Q3iH4S9-PrLOCaUv0ereOgVw/viewform" target="_blank">here</a>.
 
 ## END OF SEMESTER PDF
 This should be compiled using **Adobe InDesign**.
 
 ### First and Second Drafts
-*Direct message to deangela as a pdf*
+*Direct email as a pdf*
 * Please name your file as firstnameinitiallastname_senior_sp16_#draft.pdf (i.e. dduff_senior_sp16_1stdraft.pdf and dduff_senior_sp16_2nddraft.pdf)
 
 #### Final Version
 * Please name your file as firstnameinitiallastname_senior_sp16.pdf (i.e. dduff_senior_sp16.pdf) 
-* If pdf, **post on senior project channel on slack** for everyone to see and download in the class
 * If physical book, bring the actual book AND provide the link to preview on blurb. Make sure the book is public and that you can preview the entire book. If you can't figure out how to preview it on blurb, upload a pdf of the book to the senior project channel on slack.
 
 This should be compiled using **Adobe InDesign**.   
@@ -54,7 +53,6 @@ I highly suggest blurb
 
 ## DOCUMENTATION FOR IDM ARCHIVES and PROMOTION
 
-*Direct message the dropbox link or google drive folder link to deangela on slack.*
 
 If you want to create a dropbox account and have not already done so, let me know. Both you and I can get additional free space if I invite you.
 
@@ -76,7 +74,7 @@ Video and/or Audio documentation (varies by student)
   
 
 ## END OF SEMESTER PRESENTATION
-* Export as a pdf and post on slack
+* Export as a pdf and email
 
 
 
@@ -85,7 +83,6 @@ Video and/or Audio documentation (varies by student)
 ## FINAL SELF-ASSESSMENT
 
 * Please name your file as yourname_final_assessment.pdf
-* Direct Message as pdf to deangela on Slack.
 
 **Of Project**
 * Critically analyze/evaluate your senior project process and progress
@@ -120,7 +117,6 @@ Write a letter to the next class giving them advice on how to reach their learni
 ## PORTFOLIO WEBSITE
 *NOTE: This is different than your <a href="dm4003_senior_project_blog.md">Senior Project Website</a>.*
 
-* Post URL to Senior Project Slack Channel
 
 This website should market and promote your body of work for possible employment or other post graduation opportunities. This should NOT be hosted on http://sites.bxmc.poly.edu. Ideally, you should have your own domain name.
 
