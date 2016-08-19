@@ -22,7 +22,7 @@
     </ul></td>    
 </tr>
 <tr>
-    <td>Wk 1 Wed, Jan 27</td>
+    <td>Wk 1 Wed, Sept 7</td>
     <td>
         <ul>
         
@@ -45,37 +45,35 @@
 </td>  
 </tr>
 <tr>
-    <td>Wk 2 Wed, Feb 03</td>
+    <td>Wk 2 Wed, Sept 14</td>
     <td><strong>Homework</strong>
     <ul>
     <li>(OPTIONAL) <strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
     <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (direct message to deangela.)</li>
     <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated project website</a></strong></li>
     <li><strong>Post your project website URL</strong> on slack in our shared channel.</li>
-    <li><strong>Select a TED Talk</strong> you find relevant for your research and write a response to it. Post your response and the URL of the talk to your project website. How is it relevant to your project or which ideas of it would you like to further investigate.</li>
     <li><strong>Select any exhibition, gallery or other event</strong> that takes you out of your home. Take pictures, write a response, and post both to your project website.</li>
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>Discuss Ted Talk</li>
     <li>Discuss Exhibitions, Galleries, and Other Events</li>
     <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
     </ul>
     </td> 
 </tr>
 <tr>
-    <td>Mon, Feb 08</td>
+    <td>Mon, Sept 19</td>
     <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (to receive 100% of tuition &amp; fees and not receive a grade of 'W')</td> 
 </tr>
 <tr>
-    <td>Wk 3 Wed, Feb 10</td>
+    <td>Wk 3 Wed, Sept 21</td>
     <td><strong>Homework</strong>
     <ul>
     <li><a href="research_assignment.md">Research Assignment</a></li> 
     <li><a href="storytelling_exercise.md">Storytelling Exercise</a></li>
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     </ul>
 <strong>Class</strong>
 <ul>
@@ -84,13 +82,13 @@
 </ul></td> 
 </tr>
 <tr>
-    <td>Wk 4 Wed, Feb 17</td>
+    <td>Wk 4 Wed, Sept 28</td>
     <td><strong>Homework</strong>
     <ul>
     <li>Find two more readings and two more precedents of creative work relevant to your senior project. Post links and short descriptions of how and why it relates to your project on your project website. </li>
     <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft DUE</a></strong></li>
     
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     
     </ul>
     <strong>Class</strong>
@@ -105,11 +103,11 @@
     </ul></td> 
 </tr>
 <tr>
-    <td>Wk 5 Wed, Feb 24</td>
+    <td>Wk 5 Wed, Oct 5</td>
     <td><strong>Homework</strong>
     <ul>
     <li>(If applicable) <strong><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft DUE</a></strong></li>
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
@@ -121,25 +119,24 @@
     </ul></td> 
 </tr>
 <tr>
-    <td>Wk 6 Wed, Mar 02</td>
+    <td>Wk 6 Wed, Oct 12</td>
     <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.</li>
-    <li>Individual Meetings (All Students)</li>
+    <li>Fall Recess - No Class</li>
     </ul></td> 
 </tr>
 <tr>
-    <td>Wk 7 Wed, Mar 09</td>
+    <td>Wk 7 Wed, Oct 19</td>
     <td><strong>Homework</strong>
     <ul>
-    <li>Share your portfolio URL and/or linkedin presence in the seniors_sp16 slack channel</li>
+    <li>Share your portfolio URL and/or linkedin presence</li>
     <li>If you are not on linkedin you should create an account and link with everyone in the class and as many people in the IDM community as possible.</li>
     <li>If you do not have a portfolio website, you should create one. I suggest getting your own domain name through an ISP. I recommend <a href="http://siteground.com">http://siteground.com</a>.</li>
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
@@ -157,66 +154,64 @@
 </tr>
 
 <tr>
-    <td>Wed, Mar 16</td>
-    <td><strong><i>Spring Break - NO CLASS</i></strong></td> 
-</tr>
-
-<tr>
-    <td>Wk 8 Wed, Mar 23</td>
+    <td>Wk 8 Wed, Oct 26</td>
     <td><strong>Homework</strong>
     <ul>
     
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>De Angela will post the Midterm Self Assessment Rubric which is due **next week **on Slack</li>
-    <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Alpha Project Demo Due</a></strong> (All Students)</li>
+    <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Alpha Project Demo Due</a></strong> </li>
+    </ul></td> 
+</tr>
+<td>Wk 9 Wed, Nov 2</td>
+    <td><strong>Homework</strong>
+    <ul>
+    
+    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Alpha Project Demo Due</a></strong> </li>
     </ul></td> 
 </tr>
 <tr>
-    <td>Wk 9 Wed, Mar 30</td>
+    <td>Wk 10 Wed, Nov 11</td>
     <td><strong>Homework</strong>
     <ul>
-    <li><strong>Midterm Self Assessment Rubric Due</strong> (Direct message as pdf to deangela on slack)</li>
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    <li><strong>Midterm Self Assessment Rubric Due</strong> </li>
+    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
    
     </ul>
     <strong>Class</strong>
     <ul>
     <li>Schedule Midterm Review Individual Meetings.</li>
-     <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Alpha Project Demo Due</a></strong> (Rest of Class)</li>
-    </td>
-</tr>
-<tr>
-    <td>Thu, Mar 31 or Fri, Apr 1</td>
-    <td><strong>Midterm Review</strong> 
-    <ul>
-    <li>Individual meetings to be scheduled.</li>
+   
     </ul></td>
 </tr>
 <tr>
-    <td>Fri, Apr 1</td>
+    <td>Fri, Nov 7</td>
     <td><strong><i>LAST DAY TO WITHDRAW</i></strong></td> 
 </tr>
 
 <tr>
-    <td>Wk 10 Wed, Apr 6</td>
+    <td>Wk 11 Wed, Nov 16</td>
      <td><strong>Homework</strong>
     <ul>
-     <li><strong>7 Minute Project Presentation</strong> (All Students) Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a guideline for your visual presentation. You should present an audio (optional), visual (not optional) presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br></strong></li>
+     <li><strong>7 Minute Project Presentation</strong> Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a guideline for your visual presentation. You should present an audio (optional), visual (not optional) presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br></strong></li>
     
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     </ul>
     
      
     <strong>Class</strong>
     <ul>
-    <li><strong>Class Critique: 7 Minute Project Presentation Drafts from all students</strong></li>
+    <li><strong>Class Critique: 7 Minute Project Presentation Drafts </strong></li>
     </ul></td>
 </tr>
 <tr>
-    <td>Wk 11 Wed, Apr 13</td>
+    <td>Wk 12 Wed, Nov 23</td>
     <td>
     <strong>Homework</strong>
     <ul>
@@ -226,50 +221,46 @@
     <li>LinkedIn Profile</li>
     <li>Portfolio Website</li>
     </ul>
-    <li><strong>To receive extra credit</strong>, make sure you have scheduled a career coaching appointment with the Wasserman Center BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."</li>
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+
+    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>Class Critique:</li>
+    <li>Thanksgiving / No class</li>
     <ul>
-    <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Project Status Demo Due</a></strong></li>
-    <li>Final Resume and Cover Letter Due (post PDF on your class website from about or contact)</li>
-    <li>Final LinkedIn Profile Due (post link from your class website from about or contact.)</li>
-    <li><a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong></li>
-    </ul></ul></td> 
+    </td> 
 </tr>
 <tr>
-    <td>Wk 12 Wed, Apr 20</td>
+    <td>Wk 13 Wed, Nov 30</td>
      <td><strong>Homework</strong>
     <ul>
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
-   <li>Class Critique (Half of Class): 20 Minute Project Presentations w/ Beta Version Demo Due</li>
+   <li>Class Critique: 20 Minute Project Presentations w/ Beta Version Demo Due</li>
     </ul>
     </td>
 </tr>
 <tr>
-    <td>Wk 13 Wed, Apr 27</td>
+    <td>Wk 14 Wed, Dec 7</td>
     <td><strong>Homework</strong>
     <ul>
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
     
-    <li>Class Critique (Other Half of Class): 20 Minute Project Presentations w/ Beta Version Demo Due</li>
+    <li>Class Critique: 20 Minute Project Presentations w/ Beta Version Demo Due</li>
     </ul></li>
     </ul></td>
 </tr>
 
 <tr>
-    <td>Wk 14 Wed, May 04</td>
+    <td>TBC</td>
     <td><strong>Homework</strong>
     <ul>
-    <li>Direct message deangela on slack <strong>a flyer to promote your senior project public presentation on the MAGNET screens and BxMC facebook page</strong>.</li>
+    <li>Send <strong>a flyer to promote your senior project public presentation on the MAGNET screens and BxMC facebook page</strong>.</li>
     <ul>
     <Li>Dimensions should be 1920x1200</li>
     <li>Your Name</li>
@@ -277,64 +268,41 @@
     <li>IDM Senior Project Public Presentation</li>
     <Li>URL to Process website</li>
     <li>Put Your Time ONLY</li>
-    <ul>
-    <li>2:30 Arif</li>
-    <li>2:50 Matei</li>
-    <li>3:10 Matthew</li>
-    <li>3:30 Dylan</li>
-    <li>3:50 Casey</li>
-    <li>4:10 Lajune</li>
-    <li>4:30 Stanford</li>
-    <li>4:50 Guy</li>
-    <li>5:10 Nancy</li>
-    <li>5:30 Katalina</li>
-    <li>5:50 Hornby</li>
+    
     
     </ul>
     <li>MAGNET 811</li>
     <li>Open to all</li>
     <li>Include <a href="http://engineering.nyu.edu/services/communications/identity">NYU Tandon's Logo</a></li>
     </ul>
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     </ul>
      <strong>Class</strong>
     <ul>
     <li><strong>Class Critique: Senior Project – Gold Version Due</strong></li>
     </ul>
-    
-    </td> 
-</tr>
-<tr>
-    <td>Tue, May 10</td>
-    <td><i>Reading Days for NYU School of Engineering Undergrad Classes</i></td> 
-</tr>
-<tr>
-    <td>Wk 15 Wed, May 11<br>Time 2:30-6:30pm</td>
-    <td><strong>Homework</strong>
     <ul>
-    <li>Prepare for <strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong></li>
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
-    </ul>
-    <strong>Class</strong>
-    <ul>
-    <li><strong><a href="end_of_semester_presentation.md">End of Semester Public Presentations</a></strong> MAGNET 811 (Attendance is MANDATORY for the entire 4 hours!)</li>
-    </ul></td>
-</tr>
-<tr>
-<td>Mon, May 9-Fri, May 13</td>
-<td>
-Direct message the following to deangela on slack OR create a google drive folder OR create a dropbox link:
+     <li>Prepare for <strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong></li>
+     </ul>
+     <ul>
+     <li>
+    Email OR create a google drive folder OR create a dropbox link:
 <a href="dm4003_senior_project_end_of_semester_deliverables.md">
 Deliverables For IDM Promotion and Archive<br>
 End of Semester Presentation (exported as pdf)<br>
 Final Self-Assessment Due (pdf)<br>
 Letter to Next Cohort Due (pdf)<br>
 Portfolio Website</a>
-<a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester PDF Due</a></td>
+<a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester PDF Due</a>
+<li>
+<td><a href="https://docs.google.com/forms/d/1B1sKhE43W0fSWwrS969Q3iH4S9-PrLOCaUv0ereOgVw/viewform" target="_blank">Senior Exit Interview Survey</a>
+    </li>
+    </ul></td>
+    </td> 
 </tr>
-<tr>
-<td>Mon, May 9-Fri, May 17</td>
-<td><a href="https://docs.google.com/forms/d/1B1sKhE43W0fSWwrS969Q3iH4S9-PrLOCaUv0ereOgVw/viewform" target="_blank">Senior Exit Interview Survey</a></td>
+
+
+
 </tr>
 </table>
 
