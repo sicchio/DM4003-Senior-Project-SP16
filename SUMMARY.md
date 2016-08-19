@@ -12,7 +12,6 @@
 * [Accountability Partner](accountability_partner.md)
 * [End of Semester Public Presentation](end_of_semester_presentation.md)
 * [End of Semester Deliverables](dm4003_senior_project_end_of_semester_deliverables.md)
-* [Storytelling Exercise](storytelling_exercise.md)
 * [Research Assignment](research_assignment.md)
 * [Recommended Resources](recommended_resources.md)
 
