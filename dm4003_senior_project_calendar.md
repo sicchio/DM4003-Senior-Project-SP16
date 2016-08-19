@@ -80,7 +80,7 @@
 </ul></td> 
 </tr>
 <tr>
-    <td>Wk 4 Wed, Sept 28</td>
+    <td>Wed, Sept 28</td>
     <td><strong>Homework</strong>
     <ul>
     <li>Find two more readings and two more precedents of creative work relevant to your senior project. Post links and short descriptions of how and why it relates to your project on your project website. </li>
@@ -92,39 +92,32 @@
     <strong>Class</strong>
     <ul>
     <Li>Discuss Calendar and specifically: <strong>All dates and assignments are subject to change at the discretion of the professor</strong></li>
-      <li><strong>Present your <a href="storytelling_exercise.md">Storytelling Exercise</a></strong> (for the rest of the class who didn't present last class period)</li>
-      <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong></li>
-      <ul>
-      <li>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
+      <li><strong>Class Critique: 10 Minute Project Idea/Proposal Presentations from all students in the class</strong></li>
+      
       <li>Incorporate Primary and Secondary <a href="research_assignment.md">Research</a></li>
      </ul>
     </ul></td> 
 </tr>
 <tr>
-    <td>Wk 5 Wed, Oct 5</td>
+    <td>WWed, Oct 5</td>
     <td><strong>Homework</strong>
     <ul>
-    <li>(If applicable) <strong><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft DUE</a></strong></li>
     <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
     <li><strong>Class Critique: 10 Minute Project Status Presentations</strong> (for the rest of the class who didn't present last class period OR IF your project has changed)</li>
-     <ul>
-      <li>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
-      <li>Incorporate Primary and Secondary <a href="research_assignment.md">Research</a></li>
-     </ul>
     </ul></td> 
 </tr>
 <tr>
-    <td>Wk 6 Wed, Oct 12</td>
+    <td>Wed, Oct 12</td>
     <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>Fall Recess - No Class</li>
+    <li>Prof Sicchio Travelling - No Class</li>
     </ul></td> 
 </tr>
 <tr>
