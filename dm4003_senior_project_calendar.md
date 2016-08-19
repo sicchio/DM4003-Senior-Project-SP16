@@ -99,7 +99,7 @@
     </ul></td> 
 </tr>
 <tr>
-    <td>WWed, Oct 5</td>
+    <td>Wed, Oct 5</td>
     <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
@@ -117,11 +117,11 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>Prof Sicchio Travelling - No Class</li>
+    <li>Prof Sicchio Traveling - No Class</li>
     </ul></td> 
 </tr>
 <tr>
-    <td>Wk 7 Wed, Oct 19</td>
+    <td>Wed, Oct 19</td>
     <td><strong>Homework</strong>
     <ul>
     <li>Share your portfolio URL and/or linkedin presence</li>
@@ -140,12 +140,12 @@
     <li>[http://ninasays.so](http://ninasays.so)</li>
     </ul>
     <li>IN CLASS WORKSHOP: Share your Portfolio Website Draft and/or linkedin presences with classmates for feedback.</li>
-    <li>Individual Meetings (Rest of Class)</li>
+    <li>Individual Meetings</li>
     </ul></td> 
 </tr>
 
 <tr>
-    <td>Wk 8 Wed, Oct 26</td>
+    <td>Wed, Oct 26</td>
     <td><strong>Homework</strong>
     <ul>
     
