@@ -29,7 +29,7 @@
         <li><a href="dm4003_senior_project_syllabus.md">Syllabus</a> Q&amp;A</li>
         <li>Discuss brainstorming techniques for coming up with your senior project idea:
             <ul>
-            <li><a href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811" target="_blank">Mind Map</a> )</li>
+            <li><a href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811" target="_blank">Mind Map</a> </li>
             <li><a href="http://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER</a> Technique</li>
             <li><a href="dm4003_senior_project_card_sorting.md" target="_blank">Card Sorting</a> Technique</li>
             </ul>
