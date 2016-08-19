@@ -49,7 +49,7 @@
     <td><strong>Homework</strong>
     <ul>
     <li>(OPTIONAL) <strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
-    <li><strong>Grid of 9 exercise</strong></li>
+    <li><strong><a href="grid_of_nine.md">Grid of 9 exercise</a></strong></li>
     <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated project website</a></strong></li>
     <li><strong>Email your project website URL</strong></li>
     <li><strong>Select any exhibition, gallery or other event</strong> that takes you out of your home. Take pictures, write a response, and post both to your project website.</li>
