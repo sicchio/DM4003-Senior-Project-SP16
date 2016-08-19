@@ -22,20 +22,20 @@
     </ul></td>    
 </tr>
 <tr>
-    <td>Wk 1 Wed, Sept 7</td>
+    <td>Wed, Sept 7</td>
     <td>
         <ul>
         
         <li><a href="dm4003_senior_project_syllabus.md">Syllabus</a> Q&amp;A</li>
         <li>Discuss brainstorming techniques for coming up with your senior project idea:
             <ul>
-            <li><a href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811" target="_blank">Mind Map</a> (Example pinned on Slack)</li>
+            <li><a href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811" target="_blank">Mind Map</a> )</li>
             <li><a href="http://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER</a> Technique</li>
             <li><a href="dm4003_senior_project_card_sorting.md" target="_blank">Card Sorting</a> Technique</li>
             </ul>
         <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones</li>
     <ul>
-    <li>I recommend using post-its so you can move them around
+    <li>Use post-its so you can move them around
     OR</li>
     <li>Digital Representation of your milestones using kanbanery.com.</li>
     </ul>
@@ -45,13 +45,13 @@
 </td>  
 </tr>
 <tr>
-    <td>Wk 2 Wed, Sept 14</td>
+    <td>Wed, Sept 14</td>
     <td><strong>Homework</strong>
     <ul>
     <li>(OPTIONAL) <strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
-    <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (direct message to deangela.)</li>
+    <li><strong>Grid of 9 exercise</strong></li>
     <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated project website</a></strong></li>
-    <li><strong>Post your project website URL</strong> on slack in our shared channel.</li>
+    <li><strong>Email your project website URL</strong></li>
     <li><strong>Select any exhibition, gallery or other event</strong> that takes you out of your home. Take pictures, write a response, and post both to your project website.</li>
     <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     
@@ -59,7 +59,7 @@
     <strong>Class</strong>
     <ul>
     <li>Discuss Exhibitions, Galleries, and Other Events</li>
-    <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
+    <li>Discuss Grid of Nine Exercise</li>
     </ul>
     </td> 
 </tr>
@@ -68,17 +68,15 @@
     <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (to receive 100% of tuition &amp; fees and not receive a grade of 'W')</td> 
 </tr>
 <tr>
-    <td>Wk 3 Wed, Sept 21</td>
+    <td>Wed, Sept 21</td>
     <td><strong>Homework</strong>
     <ul>
-    <li><a href="research_assignment.md">Research Assignment</a></li> 
-    <li><a href="storytelling_exercise.md">Storytelling Exercise</a></li>
+    <li><a href="research_assignment.md">Research Assignment</a></li>
     <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     </ul>
 <strong>Class</strong>
 <ul>
-<li>Present your <a href="storytelling_exercise.md">Storytelling Exercise</a></li>
-
+<li>Present your Inital Research></li>
 </ul></td> 
 </tr>
 <tr>
@@ -245,21 +243,6 @@
 <tr>
     <td>Wk 14 Wed, Dec 7</td>
     <td><strong>Homework</strong>
-    <ul>
-    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
-    </ul>
-    <strong>Class</strong>
-    <ul>
-    
-    <li>Class Critique: 20 Minute Project Presentations w/ Beta Version Demo Due</li>
-    </ul></li>
-    </ul></td>
-</tr>
-
-<tr>
-    <td>TBC</td>
-    <td><strong>Homework</strong>
-    <ul>
     <li>Send <strong>a flyer to promote your senior project public presentation on the MAGNET screens and BxMC facebook page</strong>.</li>
     <ul>
     <Li>Dimensions should be 1920x1200</li>
@@ -268,16 +251,16 @@
     <li>IDM Senior Project Public Presentation</li>
     <Li>URL to Process website</li>
     <li>Put Your Time ONLY</li>
-    
-    
-    </ul>
+   </ul>
     <li>MAGNET 811</li>
     <li>Open to all</li>
     <li>Include <a href="http://engineering.nyu.edu/services/communications/identity">NYU Tandon's Logo</a></li>
     </ul>
+    <ul>
     <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
+   
     </ul>
-     <strong>Class</strong>
+    <strong>Class</strong>
     <ul>
     <li><strong>Class Critique: Senior Project – Gold Version Due</strong></li>
     </ul>
