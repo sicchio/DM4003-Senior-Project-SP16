@@ -3,21 +3,12 @@
 ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2016 
+    Kate Sicchio • sicchio@nyu.edu • Fall 2016 
     Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
     Office hours by appointment or directly before class 
-    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718  
-
-#####Gitbook Repository: https://www.gitbook.com/book/deangela/senior-project-in-digital-media-spring-2016/content/
-
-#####Course Management Site: http://bxmc.slack.com 
-
----
-
-*“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”* -Norman Vincent Peale
+    Office: 2MTC MAGNET 88X • Office Phone: XXX XXX XXXX  
 
 
----
 
 ## Welcome to Senior Project In Digital Media!
 
@@ -116,7 +107,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
 
-* Direct message deangela on Slack about logistics (when, where, how many?) ONLY
+* EMAIL ME! sicchio@nyu.edu
 * Talk to me in person directly after class, during your status meeting, or set up an appointment about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
 
 
@@ -169,9 +160,6 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 05% Outside Critique
 * 05% Midterm Self Assessment Rubric
 
-Extra Credit: 
-* Presenting in the IDM Meet and Greet
-* Career Counseling Appt. through NYU's Waserman Center
 
 ##### Qualitative Grading Overview
 
