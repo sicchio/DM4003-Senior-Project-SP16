@@ -224,12 +224,6 @@ Students, in addition to their regular NYU allotment, also have available to the
 * [Web Server Space](dm4003_senior_project_website.md)
 
 
-### REQUIRED TOOLS
-* Analog or Digital Calendar
-* [Personal Kanban](http://www.personalkanban.com)
-* [RescueTime](http://rescuetime.com) (optional)
-* [Zapier](http://zapier.com) (optional)
-
 
 ### [RECOMMENDED RESOURCES](recommended_resources.md)
 
