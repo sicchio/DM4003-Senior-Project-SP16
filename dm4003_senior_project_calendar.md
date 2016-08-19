@@ -235,7 +235,7 @@
     </td>
 </tr>
 <tr>
-    <td>Wed, Dec 7</td>
+    <td>Wed, Dec 7 TBC</td>
     <td><strong>Homework</strong>
     <li>Send <strong>a flyer to promote your senior project public presentation on the MAGNET screens and BxMC facebook page</strong>.</li>
     <ul>
