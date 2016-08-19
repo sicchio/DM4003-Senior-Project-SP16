@@ -153,10 +153,10 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Alpha Project Demo Due</a></strong> </li>
+    <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Work in Progress Presentation Due</a></strong> </li>
     </ul></td> 
 </tr>
-<td>Wk 9 Wed, Nov 2</td>
+<td>Wed, Nov 2</td>
     <td><strong>Homework</strong>
     <ul>
     
@@ -164,11 +164,15 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Alpha Project Demo Due</a></strong> </li>
+    <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Work in Progress Presentation Due Due</a></strong> </li>
     </ul></td> 
 </tr>
 <tr>
-    <td>Wk 10 Wed, Nov 11</td>
+    <td>Mon, Nov 7</td>
+    <td><strong><i>LAST DAY TO WITHDRAW</i></strong></td> 
+</tr>
+<tr>
+    <td>Wed, Nov 9</td>
     <td><strong>Homework</strong>
     <ul>
     <li><strong>Midterm Self Assessment Rubric Due</strong> </li>
@@ -181,16 +185,13 @@
    
     </ul></td>
 </tr>
-<tr>
-    <td>Fri, Nov 7</td>
-    <td><strong><i>LAST DAY TO WITHDRAW</i></strong></td> 
-</tr>
+
 
 <tr>
-    <td>Wk 11 Wed, Nov 16</td>
+    <td>Wed, Nov 16</td>
      <td><strong>Homework</strong>
     <ul>
-     <li><strong>7 Minute Project Presentation</strong> Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a guideline for your visual presentation. You should present an audio (optional), visual (not optional) presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br></strong></li>
+     <li><strong>Draft Project Presentation</strong> Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a guideline for your visual presentation. You should present an audio (optional), visual (not optional) presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br></strong></li>
     
     <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     </ul>
@@ -198,11 +199,11 @@
      
     <strong>Class</strong>
     <ul>
-    <li><strong>Class Critique: 7 Minute Project Presentation Drafts </strong></li>
+    <li><strong>Class Critique: Project Presentation Drafts </strong></li>
     </ul></td>
 </tr>
 <tr>
-    <td>Wk 12 Wed, Nov 23</td>
+    <td>Wed, Nov 23</td>
     <td>
     <strong>Homework</strong>
     <ul>
@@ -222,19 +223,19 @@
     </td> 
 </tr>
 <tr>
-    <td>Wk 13 Wed, Nov 30</td>
+    <td>Wed, Nov 30</td>
      <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
-   <li>Class Critique: 20 Minute Project Presentations w/ Beta Version Demo Due</li>
+   <li>Class Critique: Draft Project Presentations w/ Beta Version Demo Due</li>
     </ul>
     </td>
 </tr>
 <tr>
-    <td>Wk 14 Wed, Dec 7</td>
+    <td>Wed, Dec 7</td>
     <td><strong>Homework</strong>
     <li>Send <strong>a flyer to promote your senior project public presentation on the MAGNET screens and BxMC facebook page</strong>.</li>
     <ul>
