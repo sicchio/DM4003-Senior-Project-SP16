@@ -74,7 +74,7 @@
     </ul>
 <strong>Class</strong>
 <ul>
-<li>Present your Initial Research></li>
+<li>Present your Initial Research</li> Be prepared to give and receive feedback from your peers
 </ul></td> 
 </tr>
 <tr>
