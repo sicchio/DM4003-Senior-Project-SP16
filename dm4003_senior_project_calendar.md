@@ -30,8 +30,6 @@
         <li>Discuss brainstorming techniques for coming up with your senior project idea:
             <ul>
             <li><a href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811" target="_blank">Mind Map</a> </li>
-            <li><a href="http://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER</a> Technique</li>
-         
             </ul>
         <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones</li>
     <ul>
