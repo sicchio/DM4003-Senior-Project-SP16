@@ -2,7 +2,7 @@
 ##### Fall 2016 • Kate Sicchio • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 
 
 ---
-# Project Plan
+# Project Document
 
 
 * Please email to Kate **as a PDF** .
