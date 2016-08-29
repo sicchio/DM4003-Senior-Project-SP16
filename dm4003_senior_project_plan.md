@@ -4,8 +4,8 @@
 ---
 # Project Plan
 
-<strong>Please remember you and a classmate can work as a team.</strong>
-* Please direct message to deangela **as a PDF** on slack.
+
+* Please email to Kate **as a PDF** .
 * Please name your file as firstnamelastname_projectplan#_date.pdf (i.e. deangeladuff_projectplan1_2016jan15.pdf)
 * Please note that any significant changes to your project will require the submission of a revised project plan.
 
@@ -17,9 +17,9 @@
     <li>Your first and last name</li>
     <li>Project Title</li>
     <li>Senior Project in Digital Media</li>
-    <li>Duff</li>
+    <li>Sicchio</li>
     <li>New York University</li>
-    <li>Spring 2016</li></td>
+    <li>Fall 2016</li></td>
 </tr>
 <tr>
     <td><strong>Index or Table of Contents</strong></td>
