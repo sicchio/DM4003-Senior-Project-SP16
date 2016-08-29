@@ -28,7 +28,7 @@ PDF Cover:
 * Senior Project in Digital Media
 * Spring 2016
 
-I would use the [project plan](dm4003_senior_project_plan.md) as a guideline for the structure, and your process website and proejct presentations for content.
+I would use the [project plan](dm4003_senior_project_plan.md) as a guideline for the structure, and your process website and project presentations for content.
  
 Content should also include:
   * URL to your project website
