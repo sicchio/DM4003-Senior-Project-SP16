@@ -75,7 +75,6 @@
     <li>List of Collaborators, Participants, and Advisors (People and their roles). Be Specific. First &amp; Last Names and URLs if available</li>
     <li>Materials &amp; Vendors List</li>
     <li>Technical requirements</li>
-    <li>Budget</li>
     </ul>
     You should decide what kinds of resources are most appropriate for your project. (How are you achieving this?)</td> 
 </tr>
