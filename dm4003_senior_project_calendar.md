@@ -16,7 +16,7 @@
     <td>Before Class Begins</td>
     <td>
     <ul>
-    <li><strong>Read the <a href="dm4003_senior_project_syllabus.md">syllabus</a></strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
+    <li><strong>Read the <a href="dm4003_senior_project_syllabus.md">syllabus</a></strong> and be prepared to ask questions on first day of class</li>
     
     <li>Populate a calendar (google, iCal, or non-digital) with due dates for this class</li>
     </ul></td>    
