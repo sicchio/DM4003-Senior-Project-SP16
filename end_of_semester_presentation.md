@@ -8,7 +8,7 @@
 Dec TBD, Time TBD,
 MAGNET 811 (Attendance is MANDATORY for the entire # hours!)
 
-Use the project plan guidelines as a guide for content. Your public presentation should showcase your completed senior project–gold version.
+Use the project document guidelines as a guide for content. Your public presentation should showcase your completed senior project–gold version.
 
 
      Each presentation will consist of 
