@@ -29,25 +29,6 @@ audio (podcast, etc.)
 
 The Senior Project **can also be a team-based project** if your teammate is also taking this semester of Senior Project.
 
-## Your Commitment to Senior Project
-Excerpt from the book *Anything You Want* by Derek Sivers
-
-     No “yes.” 
-     Either “HELL YEAH!” or “no.”
-     If you’re not saying “HELL YEAH!” about something, say “no.” 
-     When deciding whether to do something, if you feel anything less than 
-     “Wow! That would be amazing! Absolutely! Hell yeah!”
-     —then say “no.” 
-
-How are you currently feeling about your Senior Project? 
-* Yes. 
-* Hell Yeah! or 
-* No:( 
-
-If you are NOT feeling “Hell Yeah!” about your senior project, remember your project idea is just that YOURS. I highly suggest you read What is Senior Project in Digital Media?, again, AND the required and recommended readings NOW!
-
-Senior Project is about the work YOU are and will continue to do, when you are no longer a student. You don’t need anyone to whip you to work because you can NOT, not do it. You will live, eat, breath, and sleep with this project. It is NOT about doing a project for a class or pleasing the Integrated Digital Media faculty. It is about you, your ideas, your concerns, your questions and your passion.
-
 Senior Project in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow class mates, faculty, and outside critics. Ultimately, your goal is to COMPLETE a project that has a life beyond school, beyond graduation.
 
 
@@ -82,7 +63,7 @@ By the end of the course, students will be able to develop, complete, and docume
 Students are expected to be on time for all meetings, critiques, and presentations. 
 
 This class will consist of 
-* **Individual Meetings**<br>The order of our weekly, individual 20 minute status meetings will be determined on the first day of class. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
+* **Individual Meetings**<br>The dates of  individual 20 minute status meetings will be determined on the first day of class. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
 Individual meetings are not optional. They are important and useful. Sometimes
 they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please show professional courtesy and let me know ahead of time.
 * **Class critiques**<br>
@@ -152,13 +133,10 @@ Students will conduct self assessments as well as be evaluated by the professor 
 ##### Quantitative Grading Overview
 
 * 30% [End of Semester Deliverables](dm4003_senior_project_end_of_semester_deliverables.md)
-* 21% Senior Project – Gold Version 
-* 14% Weekly Progress: Project Milestones (aka what have you done this week?) on your [project website](dm4003_senior_project_website.md) and calendar 
-* 10% Project Critique Presentations
+* 25% Senior Project – Gold Version 
+* 25% Weekly Progress: [project website](dm4003_senior_project_website.md) and Project Critique Presentations
 * 10% [Portfolio Website](dm4003_senior_project_end_of_semester_deliverables.md), Resume, Cover Letter, and LinkedIn Profile
-* 05% [End of Semester Public Presentation](dm4003_senior_project_end_of_semester_deliverables.md)
-* 05% Outside Critique
-* 05% Midterm Self Assessment Rubric
+* 10% Midterm Self Assessment and Review
 
 
 ##### Qualitative Grading Overview
