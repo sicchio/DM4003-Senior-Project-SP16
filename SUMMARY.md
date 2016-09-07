@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Syllabus](dm4003_senior_project_syllabus.md)
 * [Calendar](dm4003_senior_project_calendar.md)
+   * Grid of Nine
 * [Project Plan](dm4003_senior_project_plan.md)
 * [Project Versions](project_versions.md)
 * [Project Demo / Presentation](project_demo.md)
