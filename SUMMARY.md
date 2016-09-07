@@ -4,6 +4,7 @@
 * [Syllabus](dm4003_senior_project_syllabus.md)
 * [Calendar](dm4003_senior_project_calendar.md)
    * Grid of Nine
+* [Grid of Nine](grid_of_nine.md)
 * [Project Plan](dm4003_senior_project_plan.md)
 * [Project Versions](project_versions.md)
 * [Project Demo / Presentation](project_demo.md)
@@ -14,5 +15,4 @@
 * [End of Semester Deliverables](dm4003_senior_project_end_of_semester_deliverables.md)
 * [Research Assignment](research_assignment.md)
 * [Recommended Resources](recommended_resources.md)
-* [Grid of Nine](grid_of_nine.md)
 
