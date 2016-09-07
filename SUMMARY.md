@@ -4,7 +4,7 @@
 * [Syllabus](dm4003_senior_project_syllabus.md)
 * [Calendar](dm4003_senior_project_calendar.md)
 * [Grid of Nine](grid_of_nine.md)
-* [Project Plan](dm4003_senior_project_plan.md)
+* [Project Document](dm4003_senior_project_plan.md)
 * [Project Versions](project_versions.md)
 * [Project Demo / Presentation](project_demo.md)
 * [Project Website](dm4003_senior_project_website.md)
