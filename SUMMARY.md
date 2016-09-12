@@ -8,6 +8,7 @@
 * [Project Versions](project_versions.md)
 * [Project Demo / Presentation](project_demo.md)
 * [Project Website](dm4003_senior_project_website.md)
+   * Liz Lerman Feedback
 * [Personal Kanban (Optional)](personal_kanban.md)
 * [Accountability Partner](accountability_partner.md)
 * [End of Semester Public Presentation](end_of_semester_presentation.md)
