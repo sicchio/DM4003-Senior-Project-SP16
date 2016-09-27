@@ -82,17 +82,17 @@
     <td><strong>Homework</strong>
     <ul>
     <li>Find two more readings and two more precedents of creative work relevant to your senior project. Post links and short descriptions of how and why it relates to your project on your project website. </li>
-    <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft DUE</a></strong></li>
+    <li><strong><a href="dm4003_senior_project_plan.md">Project Document 1st Draft DUE</a></strong></li>
     
     <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     
     </ul>
     <strong>Class</strong>
     <ul>
-    <Li>Discuss Calendar and specifically: <strong>All dates and assignments are subject to change at the discretion of the professor</strong></li>
+    
       <li><strong>Class Critique: 10 Minute Project Idea/Proposal Presentations from all students in the class</strong></li>
+      <li>Guest Critic: Isabella Chong-Cruz</li>
       
-      <li>Incorporate Primary and Secondary <a href="research_assignment.md">Research</a></li>
      </ul>
     </ul></td> 
 </tr>
@@ -105,6 +105,8 @@
     <strong>Class</strong>
     <ul>
     <li><strong>Class Critique: 10 Minute Project Status Presentations</strong> (for the rest of the class who didn't present last class period OR IF your project has changed)</li>
+      <li>Guest Critic: Susanne Palzer</li>
+    <li>Incorporate Primary and Secondary <a href="research_assignment.md">Research</a></li>
     </ul></td> 
 </tr>
 <tr>
