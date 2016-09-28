@@ -131,16 +131,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>Discuss Portfolio Websites</li>
-    <ul>
-    <li>[http://ilovett.com](http://ilovett.com)</li>
-    <li>[http://www.volumeone.com/](http://www.volumeone.com/)</li>
-    <li>[http://jimmy-simpson.com/](http://jimmy-simpson.com/)</li>
-    <li>[http://cattsmall.com](http://cattsmall.com)</li>
-    <li>[http://ninasays.so](http://ninasays.so)</li>
-    </ul>
-    <li>IN CLASS WORKSHOP: Share your Portfolio Website Draft and/or linkedin presences with classmates for feedback.</li>
-    <li>Individual Meetings</li>
+    <li>Individual Meetings </li>
     </ul></td> 
 </tr>
 
@@ -165,6 +156,7 @@
     <strong>Class</strong>
     <ul>
     <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Work in Progress Presentation Due Due</a></strong> </li>
+    <li> Share & Discuss Portfolio site/Linked In Profiles
     </ul></td> 
 </tr>
 <tr>
