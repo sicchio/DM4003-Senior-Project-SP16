@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Syllabus](dm4003_senior_project_syllabus.md)
 * [Calendar](dm4003_senior_project_calendar.md)
-* [Research Methods](research_methods.md)
+* [Research Methods](research.md)
 * [Grid of Nine](grid_of_nine.md)
 * [Project Document](dm4003_senior_project_plan.md)
 * [Project Versions](project_versions.md)
