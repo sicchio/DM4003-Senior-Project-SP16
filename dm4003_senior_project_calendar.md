@@ -156,8 +156,7 @@
     <strong>Class</strong>
     <ul>
     <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Work in Progress Presentation Due Due</a></strong> </li>
-    <li> Share & Discuss Portfolio site/Linked In Profiles
-    </ul></td> 
+    </td> 
 </tr>
 <tr>
     <td>Mon, Nov 7</td>
@@ -191,7 +190,7 @@
      
     <strong>Class</strong>
     <ul>
-    <li><strong>Class Critique: Project Presentation Drafts </strong></li>
+    <li><strong>Class Critique: Portfolio sites </strong></li>
     </ul></td>
 </tr>
 <tr>
