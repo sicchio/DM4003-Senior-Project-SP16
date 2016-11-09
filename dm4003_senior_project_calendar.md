@@ -226,7 +226,7 @@
     </td>
 </tr>
 <tr>
-    <td>Wed, Dec 7 TBC</td>
+    <td>Wed, Dec 7 </td>
     <td><strong>Homework</strong>
     <li>Send <strong>a flyer to promote your senior project public presentation on the MAGNET screens and BxMC facebook page</strong>.</li>
     <ul>
@@ -240,6 +240,25 @@
     <li>MAGNET 811</li>
     <li>Open to all</li>
     <li>Include <a href="http://engineering.nyu.edu/services/communications/identity">NYU Tandon's Logo</a></li>
+    </ul>
+    <ul>
+    <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
+   
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    <li><strong>Indvidual Meetings</strong></li>
+    </ul>
+    <ul>
+    
+    </ul></td>
+    </td> 
+</tr>
+
+<tr>
+    <td>Wed, Dec 14 </td>
+    <td><strong>Homework</strong>
+    <li>Gold Version and Final Presentation Prep/li>
     </ul>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
@@ -267,7 +286,6 @@ Portfolio Website</a>
     </ul></td>
     </td> 
 </tr>
-
 
 
 </tr>
