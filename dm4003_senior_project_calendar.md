@@ -247,7 +247,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong>Indvidual Meetings</strong></li>
+    <li>Indvidual Meetings TBD</li>
     </ul>
     <ul>
     
