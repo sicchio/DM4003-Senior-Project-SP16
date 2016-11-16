@@ -6,22 +6,20 @@
 # End of Semester Deliverables
 
 ## EXIT INTERVIEW SURVEY
-<a href="">here</a>.
 
 ## END OF SEMESTER PDF
 This should be compiled using **Adobe InDesign**.
 
 #### Final Version Project Document
-* Please name your file as firstnameinitiallastname_senior_sp16.pdf (i.e. dduff_senior_sp16.pdf) 
+* Please name your file as firstnameinitiallastname_senior_fa16.pdf (i.e. ksicchio_senior_fa16.pdf) 
 
 This should be compiled using **Adobe InDesign**.   
 
 PDF Cover:
 * Your first and last name
-* Your Logo
 * The Name of Your Project
 * Senior Project in Digital Media
-* Spring 2016
+* Fall 2016
 
 I would use the [project document](dm4003_senior_project_plan.md) as a guideline for the structure, and your process website and project presentations for content.
  
@@ -52,13 +50,10 @@ Video and/or Audio documentation (varies by student)
     * If creating an audio podcast, provide mp3s of all podcasts.
     * If creating any print medium, provide an original copy of it or provide a digital copy of it (preferably pdf).
 
-  
+
 
 ## END OF SEMESTER PRESENTATION
 * Export as a pdf and email
-
-
-
 
 
 ## PROJECT REFLECTION
@@ -71,7 +66,6 @@ Video and/or Audio documentation (varies by student)
 * What qualitative description would you give the final execution of your project so far and why?
 * Lessons Learned / What would you do differently?
 * SEE THE STEVEN'S REFLECTIVE PRACTICE FRAMEWORK PDF
-
 
 
 
