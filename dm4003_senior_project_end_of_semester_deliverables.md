@@ -3,9 +3,10 @@
 
 ---
 
-# End of Semester Deliverables MUST CONTAIN THE FOLLOWING 7 ITEMS
+# End of Semester Deliverables MUST CONTAIN THE FOLLOWING 6 ITEMS
 
 ## EXIT INTERVIEW SURVEY
+Forthcoming.
 
 ## PROJECT DOCUMENT PDF
 This should be compiled using **Adobe InDesign**.
@@ -32,10 +33,7 @@ or using Preview (Drag and Drop with thumbnail panel)
 
 ## DOCUMENTATION FOR IDM ARCHIVES and PROMOTION
 
-
-Each student will provide their own **dropbox link**. A dropbox link is actually different than sharing an actual *dropbox folder*. Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) 
- 
-Create a dropbox link (NOT folder, see above) or google drive folder that contains the following. Make sure all filenames include your name and ms thesis fa15 and descriptive text of the content: 
+Please provide a link via dropbox or google drive. Make sure all filenames include your name and senior projects sp16 and descriptive text of the content: 
 
 Photo documentation (for all students)
     * ***at least*** 3, hi-res images of your project (RAW preferably or 300dpi)
@@ -47,11 +45,6 @@ Video and/or Audio documentation (varies by student)
     * If creating any sort of moving image (animation, film, motion graphics, video web series, etc.), please provide compressed video files of your moving image.
     * If creating an audio podcast, provide mp3s of all podcasts.
     * If creating any print medium, provide an original copy of it or provide a digital copy of it (preferably pdf).
-
-
-
-## END OF SEMESTER PRESENTATION
-* Export as a pdf and email
 
 
 ## PROJECT REFLECTION
