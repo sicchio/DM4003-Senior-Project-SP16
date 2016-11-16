@@ -3,14 +3,12 @@
 
 ---
 
-# End of Semester Deliverables
+# End of Semester Deliverables MUST CONTAIN THE FOLLOWING 7 ITEMS
 
 ## EXIT INTERVIEW SURVEY
 
-## END OF SEMESTER PDF
+## PROJECT DOCUMENT PDF
 This should be compiled using **Adobe InDesign**.
-
-#### Final Version Project Document
 * Please name your file as firstnameinitiallastname_senior_fa16.pdf (i.e. ksicchio_senior_fa16.pdf) 
 
 This should be compiled using **Adobe InDesign**.   
@@ -21,7 +19,7 @@ PDF Cover:
 * Senior Project in Digital Media
 * Fall 2016
 
-I would use the [project document](dm4003_senior_project_plan.md) as a guideline for the structure, and your process website and project presentations for content.
+Use the [project document](dm4003_senior_project_plan.md) as a guideline for the structure, and your process website and project presentations for content.
  
 Content should also include:
   * URL to your project website
