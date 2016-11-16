@@ -135,7 +135,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 30% [End of Semester Deliverables](dm4003_senior_project_end_of_semester_deliverables.md)
 * 25% Senior Project – Gold Version 
 * 25% Weekly Progress: [project website](dm4003_senior_project_website.md) and Project Critique Presentations
-* 10% [Portfolio Website](dm4003_senior_project_end_of_semester_deliverables.md), Resume, Cover Letter, and LinkedIn Profile
+* 10% [Portfolio Website](dm4003_senior_project_end_of_semester_deliverables.md) (additional to project website)
 * 10% Midterm Self Assessment and Review
 
 
@@ -179,7 +179,7 @@ Any printed assignments should always contain the following info, be saved as a 
 * Your first and last name
 * DM 4003 Senior Project in Digital Media
 * Spring 2016
-* Duff
+* Sicchio
 * Title of project or assignment
 
 **File Naming**
