@@ -51,7 +51,6 @@ Video and/or Audio documentation (varies by student)
 
 * Please name your file as yourname_final_assessment.pdf
 
-**Of Project**
 * Critically analyze/evaluate your senior project process and progress
 * What qualitative description would you give your overall process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
 * What qualitative description would you give the final execution of your project so far and why?
