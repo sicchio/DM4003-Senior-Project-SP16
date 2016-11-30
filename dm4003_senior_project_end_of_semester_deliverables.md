@@ -6,7 +6,7 @@
 # End of Semester Deliverables MUST CONTAIN THE FOLLOWING 6 ITEMS
 
 ## EXIT INTERVIEW SURVEY
-Forthcoming.
+WILL RECEIVE FROM DEANGELA
 
 ## PROJECT DOCUMENT PDF
 This should be compiled using **Adobe InDesign**.
