@@ -55,7 +55,7 @@ Video and/or Audio documentation (varies by student)
 * What qualitative description would you give your overall process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
 * What qualitative description would you give the final execution of your project so far and why?
 * Lessons Learned / What would you do differently?
-* SEE THE STEVEN'S REFLECTIVE PRACTICE FRAMEWORK PDF
+* [SEE THE STEVEN'S REFLECTIVE PRACTICE FRAMEWORK PDF](https://drive.google.com/a/nyu.edu/file/d/0B4nUNuLrhw35U093TXZBdGVLM2c/view?usp=sharing)
 
 
 
